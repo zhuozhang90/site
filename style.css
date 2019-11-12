@@ -1,5 +1,4 @@
 
-
 #img-col{
   text-align: center;
 }
@@ -11,4 +10,20 @@
 
 .container-main{
   padding-top: 2vh;
+}
+
+.blockquote{
+  margin-top: 10vh;
+}
+
+#about{
+  margin-top: 5vh;
+}
+
+
+#photo{
+  max-height: 40vh;
+  min-height: 300px;
+  margin-bottom: 2vh;
+
 }
